@@ -1,4 +1,4 @@
-chmod g=- test.txt  
+chmod g=- didgeridoo.txt  
     works and will set - to all
 
 chmod o-w project.txt
